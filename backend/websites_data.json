@@ -1,0 +1,1219 @@
+{
+  "websites": {
+    "c4ef35d4-d1c1-4835-84f4-01c7dec09b05": {
+      "id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+      "name": "Guru Ai",
+      "url": "https://guruai.in",
+      "check_interval": 10,
+      "expected_status_code": 200,
+      "last_check": "2025-06-13T12:02:31.296Z",
+      "status": "up",
+      "response_time": 375,
+      "status_code": 200
+    },
+    "039aa19a-bcaa-44f5-961b-9ff939228784": {
+      "id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+      "name": "christ university",
+      "url": "https://christuniversity.in/",
+      "check_interval": 10,
+      "expected_status_code": 200,
+      "last_check": "2025-06-13T12:02:26.519Z",
+      "status": "up",
+      "response_time": 604,
+      "status_code": 200
+    },
+    "0206f4e9-6240-4041-911e-230cbf7836b7": {
+      "id": "0206f4e9-6240-4041-911e-230cbf7836b7",
+      "name": "Test Website",
+      "url": "https://httpbin.org/status/200",
+      "check_interval": 30,
+      "expected_status_code": 200,
+      "last_check": null,
+      "status": "unknown"
+    }
+  },
+  "history": {
+    "c4ef35d4-d1c1-4835-84f4-01c7dec09b05": [
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:04:36.200Z",
+        "response_time": 7388,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:04:50.430Z",
+        "response_time": 544,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:05:14.559Z",
+        "response_time": 1954,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:05:14.924Z",
+        "response_time": 2317,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:05:36.717Z",
+        "response_time": 902,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:05:49.502Z",
+        "response_time": 713,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:06:08.140Z",
+        "response_time": 4173,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:06:08.740Z",
+        "response_time": 1034,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:06:29.606Z",
+        "response_time": 1868,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:06:29.608Z",
+        "response_time": 1880,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:06:45.055Z",
+        "response_time": 756,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:07:05.580Z",
+        "response_time": 1219,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:07:25.420Z",
+        "response_time": 1623,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:07:48.863Z",
+        "response_time": 1007,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:07:49.368Z",
+        "response_time": 1509,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:08:04.436Z",
+        "response_time": 595,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:08:21.930Z",
+        "response_time": 1684,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:08:44.491Z",
+        "response_time": 1548,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:08:47.144Z",
+        "response_time": 4198,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:09:06.533Z",
+        "response_time": 1507,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:09:07.452Z",
+        "response_time": 2302,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:09:28.623Z",
+        "response_time": 2214,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:09:28.772Z",
+        "response_time": 767,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:09:28.774Z",
+        "response_time": 779,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:09:46.284Z",
+        "response_time": 1519,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:10:04.201Z",
+        "response_time": 1149,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:10:04.546Z",
+        "response_time": 2005,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:10:23.881Z",
+        "response_time": 794,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:10:24.289Z",
+        "response_time": 1205,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:10:24.636Z",
+        "response_time": 1665,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:10:40.328Z",
+        "response_time": 2236,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:10:59.236Z",
+        "response_time": 1118,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:10:59.424Z",
+        "response_time": 1319,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:11:17.392Z",
+        "response_time": 1499,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:11:29.854Z",
+        "response_time": 978,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:11:45.369Z",
+        "response_time": 668,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:12:00.422Z",
+        "response_time": 704,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:12:19.183Z",
+        "response_time": 595,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:12:37.103Z",
+        "response_time": 2309,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:12:51.247Z",
+        "response_time": 1473,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:13:14.055Z",
+        "response_time": 725,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:13:14.581Z",
+        "response_time": 1254,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:13:32.684Z",
+        "response_time": 1383,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:13:54.908Z",
+        "response_time": 1500,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:13:56.312Z",
+        "response_time": 3458,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:14:14.310Z",
+        "response_time": 3879,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:14:14.758Z",
+        "response_time": 1328,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:14:26.102Z",
+        "response_time": 1192,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:14:50.550Z",
+        "response_time": 2084,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:14:50.628Z",
+        "response_time": 2165,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:15:14.277Z",
+        "response_time": 768,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:15:14.505Z",
+        "response_time": 1005,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:15:31.540Z",
+        "response_time": 1450,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:15:54.309Z",
+        "response_time": 737,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:15:55.028Z",
+        "response_time": 1460,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:16:20.087Z",
+        "response_time": 1485,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T06:16:21.697Z",
+        "response_time": 3092,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:52:40.567Z",
+        "response_time": 10003,
+        "status_code": 0,
+        "is_up": false,
+        "error": "The operation was aborted."
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:52:45.556Z",
+        "response_time": 10001,
+        "status_code": 0,
+        "is_up": false,
+        "error": "The operation was aborted."
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:52:50.557Z",
+        "response_time": 10002,
+        "status_code": 0,
+        "is_up": false,
+        "error": "The operation was aborted."
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:53:10.560Z",
+        "response_time": 10001,
+        "status_code": 0,
+        "is_up": false,
+        "error": "The operation was aborted."
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:53:15.562Z",
+        "response_time": 10003,
+        "status_code": 0,
+        "is_up": false,
+        "error": "The operation was aborted."
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:53:32.520Z",
+        "response_time": 6956,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:53:32.524Z",
+        "response_time": 1961,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:53:45.915Z",
+        "response_time": 351,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:54:00.908Z",
+        "response_time": 341,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:54:15.925Z",
+        "response_time": 356,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:54:30.904Z",
+        "response_time": 334,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:54:45.910Z",
+        "response_time": 338,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:55:00.941Z",
+        "response_time": 368,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:55:15.922Z",
+        "response_time": 347,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:55:30.912Z",
+        "response_time": 336,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:55:45.927Z",
+        "response_time": 349,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:56:00.919Z",
+        "response_time": 340,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:56:15.915Z",
+        "response_time": 335,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:56:30.961Z",
+        "response_time": 381,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:56:45.920Z",
+        "response_time": 338,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:57:00.929Z",
+        "response_time": 346,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:57:15.943Z",
+        "response_time": 356,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:57:30.943Z",
+        "response_time": 353,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:57:45.910Z",
+        "response_time": 319,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:58:00.945Z",
+        "response_time": 351,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:58:15.928Z",
+        "response_time": 332,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:58:30.932Z",
+        "response_time": 336,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:58:45.942Z",
+        "response_time": 345,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:59:00.933Z",
+        "response_time": 335,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:59:15.949Z",
+        "response_time": 350,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:59:30.976Z",
+        "response_time": 363,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T11:59:45.981Z",
+        "response_time": 354,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T12:00:01.037Z",
+        "response_time": 378,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T12:00:16.060Z",
+        "response_time": 367,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T12:00:31.117Z",
+        "response_time": 386,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T12:00:46.202Z",
+        "response_time": 438,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T12:01:01.156Z",
+        "response_time": 375,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T12:01:16.211Z",
+        "response_time": 409,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T12:01:31.198Z",
+        "response_time": 370,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T12:01:46.183Z",
+        "response_time": 328,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T12:02:01.231Z",
+        "response_time": 358,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T12:02:16.269Z",
+        "response_time": 368,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c4ef35d4-d1c1-4835-84f4-01c7dec09b05",
+        "url": "https://guruai.in",
+        "timestamp": "2025-06-13T12:02:31.296Z",
+        "response_time": 375,
+        "status_code": 200,
+        "is_up": true
+      }
+    ],
+    "c0d28e18-dd3a-4bc2-807b-b14ff56527a5": [
+      {
+        "website_id": "c0d28e18-dd3a-4bc2-807b-b14ff56527a5",
+        "url": "https://www.geeksforgeeks.org/",
+        "timestamp": "2025-06-13T06:00:03.707Z",
+        "response_time": 6636,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c0d28e18-dd3a-4bc2-807b-b14ff56527a5",
+        "url": "https://www.geeksforgeeks.org/",
+        "timestamp": "2025-06-13T06:00:03.707Z",
+        "response_time": 6636,
+        "status_code": 0,
+        "is_up": false,
+        "error": "Cannot set properties of undefined (setting 'last_check')"
+      },
+      {
+        "website_id": "c0d28e18-dd3a-4bc2-807b-b14ff56527a5",
+        "url": "https://www.geeksforgeeks.org/",
+        "timestamp": "2025-06-13T06:00:03.909Z",
+        "response_time": 1835,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "c0d28e18-dd3a-4bc2-807b-b14ff56527a5",
+        "url": "https://www.geeksforgeeks.org/",
+        "timestamp": "2025-06-13T06:00:03.909Z",
+        "response_time": 1835,
+        "status_code": 0,
+        "is_up": false,
+        "error": "Cannot set properties of undefined (setting 'last_check')"
+      }
+    ],
+    "039aa19a-bcaa-44f5-961b-9ff939228784": [
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:52:41.225Z",
+        "response_time": 644,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:52:56.180Z",
+        "response_time": 622,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:53:11.148Z",
+        "response_time": 588,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:53:11.355Z",
+        "response_time": 790,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:53:33.111Z",
+        "response_time": 580,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:53:33.114Z",
+        "response_time": 587,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:53:46.245Z",
+        "response_time": 326,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:54:05.910Z",
+        "response_time": 342,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:54:10.913Z",
+        "response_time": 10001,
+        "status_code": 0,
+        "is_up": false,
+        "error": "The operation was aborted."
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:54:26.038Z",
+        "response_time": 468,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:54:40.860Z",
+        "response_time": 289,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:54:55.848Z",
+        "response_time": 275,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:55:10.846Z",
+        "response_time": 271,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:55:25.849Z",
+        "response_time": 273,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:55:40.869Z",
+        "response_time": 292,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:55:56.147Z",
+        "response_time": 567,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:56:11.148Z",
+        "response_time": 568,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:56:26.148Z",
+        "response_time": 569,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:56:41.150Z",
+        "response_time": 569,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:56:56.128Z",
+        "response_time": 545,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:57:10.872Z",
+        "response_time": 287,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:57:25.888Z",
+        "response_time": 300,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:57:40.958Z",
+        "response_time": 368,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:57:55.895Z",
+        "response_time": 303,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:58:10.966Z",
+        "response_time": 371,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:58:26.235Z",
+        "response_time": 639,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:58:40.910Z",
+        "response_time": 313,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:58:55.993Z",
+        "response_time": 395,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:59:10.930Z",
+        "response_time": 332,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:59:25.901Z",
+        "response_time": 291,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:59:40.952Z",
+        "response_time": 326,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T11:59:56.125Z",
+        "response_time": 480,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T12:00:11.022Z",
+        "response_time": 342,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T12:00:26.064Z",
+        "response_time": 348,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T12:00:41.056Z",
+        "response_time": 297,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T12:00:56.382Z",
+        "response_time": 603,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T12:01:11.340Z",
+        "response_time": 538,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T12:01:26.399Z",
+        "response_time": 586,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T12:01:41.440Z",
+        "response_time": 593,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T12:01:56.557Z",
+        "response_time": 688,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T12:02:11.482Z",
+        "response_time": 583,
+        "status_code": 200,
+        "is_up": true
+      },
+      {
+        "website_id": "039aa19a-bcaa-44f5-961b-9ff939228784",
+        "url": "https://christuniversity.in/",
+        "timestamp": "2025-06-13T12:02:26.519Z",
+        "response_time": 604,
+        "status_code": 200,
+        "is_up": true
+      }
+    ]
+  }
+}
